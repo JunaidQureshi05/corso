@@ -13,3 +13,12 @@ nav {
 .slide {
   width: 75%;
 }
+.invitation-bg {
+  background: linear-gradient(
+      to bottom right,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url("../images/invitation-background.jpg") center center no-repeat;
+  background-size: cover;
+}
